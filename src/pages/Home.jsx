@@ -219,7 +219,7 @@ function Home() {
 
     return (
         <>
-            <div className={`min-h-200 ${bright ? "bg-white text-gray-800" : "bg-black text-white"} transition-colors duration-500`}>
+            <div className={`min-h-165 ${bright ? "bg-white text-gray-800" : "bg-black text-white"} transition-colors duration-500`}>
                 <div className="fixed top-0 left-0 right-0 backdrop-blur-lg border-b border-gray-300 z-50">
                     <h1 className="text-center py-3 font-bold text-2xl text-yellow-600 cursor-pointer">Notes App</h1>
                     <div
