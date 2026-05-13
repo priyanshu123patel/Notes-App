@@ -687,9 +687,6 @@ function Home() {
                         </div>
                     </div>
                 )}
-                <div className="mt-40 backdrop-blur-lg border-b border-gray-300">
-                    <h1 className="text-center py-3 font-bold text-2xl text-green-500 cursor-pointer">For better Experience use SmartPhone </h1>
-                </div>
             </div>
             <Footer/>
         </>
